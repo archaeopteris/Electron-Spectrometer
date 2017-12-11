@@ -10,7 +10,7 @@ Project was done at Alikhanyan National Science Laboratory as part of a Diploma 
 Source beam from Strontium 90 has a gaussian angle distribution on input of the device.
 
 ### Output Beam
-Collimators on the output of the device are made from permalloy and are 10mm long.
+Collimators on the output of the device are made from permalloy and are 100mm long.
 Collimators for 1 and 1.5 MeV beams are 5mm width.
 Collimator for 2 MeV beams are 10mm width.
 
