@@ -5,7 +5,7 @@
 // Last Update: 26.02.2013													//
 //																			//
 // Description: Program calculates the complex trajectory of electron		//
-//				beam traveling throught irregular magnetic fields.			//
+//				beam traveling throught uneven magnetic fields.			//
 //																			//
 //				Data was used for construction of a mass spectrometer		//
 //				for charged particles to separate particles by energy.		//
