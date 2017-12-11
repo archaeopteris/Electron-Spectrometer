@@ -98,9 +98,11 @@ double YPolinom(double E_el)
 void PrintLicense()
 {
 	cout << "    Tracker  Copyright (C) 2013  Hayk Voskanyan" << endl;
-    cout << "    This program comes with ABSOLUTELY NO WARRANTY; for details type `show w'." << endl;
+    cout << "    This program comes with ABSOLUTELY NO WARRANTY;" << endl;
 	cout << "    This is free software, and you are welcome to redistribute it" << endl;
-	cout << "    under certain conditions; type `show c' for details." << endl;
+	cout << "    under certain conditions" << endl;
+	cout << "    Visit https://choosealicense.com/licenses/gpl-3.0/ for more details." << endl;
+	cout << endl;
 }
 
 int main()
@@ -123,7 +125,7 @@ int main()
 	//Opening files for data manipulations;
 	XYTheta.open ("XYTheta.txt",ios::trunc);
 	Colimator1.open ("Colimator1.txt",ios::trunc);
-	Hist.open ("Histogram.txt",ios::trunc);
+	Hist.open ("electron_Distribution.txt",ios::trunc);
 	Energy.open ("Energy.txt",ios::trunc);
 	XYGraph.open ("XYGraph.txt",ios::trunc);
 	EXYGraph.open ("EXYGraph.txt",ios::trunc);
@@ -176,7 +178,7 @@ int main()
 	yi = y;
 
 
-	Data_Writer(1);
+//	Data_Writer(1);
 
 	XYTheta << setw(4) << "X|" << setw(4) << "Y|" << setw(4) << "Theta|" << endl;
 
