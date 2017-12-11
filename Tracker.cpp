@@ -43,7 +43,7 @@ double YPolinom(double E_el);
 void Data_Writer();
 void PrintLicense();
 
-// Variable Declaration
+// Global variable Declaration
 double B[81][101] = {1.};
 double q_el = 1.602176565;
 double m_el = 0.510998910;
@@ -87,6 +87,7 @@ void Data_Writer(int c)
 	}
 }
 
+// Calculate values for polinomial fitting.
 double YPolinom(double E_el)
 {
 	Pol = P0 + (P1 * E_el) + (P2 * pow(E_el,2.)) + (P3 * pow(E_el,3.));
@@ -95,6 +96,7 @@ double YPolinom(double E_el)
 	return Pol;
 }
 
+// Prints licensing information
 void PrintLicense()
 {
 	cout << "    Tracker  Copyright (C) 2013  Hayk Voskanyan" << endl;
