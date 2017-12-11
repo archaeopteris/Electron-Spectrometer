@@ -1,5 +1,5 @@
 //////////////////////////////////////////////////////////////////////////
-// Program name: Maper													//
+// Program name: Mapper.cpp													//
 // Author: Voskanyan Haik												//
 // Date created: December.2012											//
 //																		//
