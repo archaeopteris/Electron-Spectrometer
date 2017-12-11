@@ -4,15 +4,14 @@
 // Created: 01.05.2012														//
 // Last Update: 26.02.2013													//
 //																			//
-// Description: Electron beam crossing through magnetic field and bends		//
-// it's way																	//
-// under the influence of Magnetic field. The Program will					//
-// calculate																//
-// the electron beam trajectory using data taken from						//
-// Magnetic field map,														//
-// which is maped by program "HShield" and represented by					//
-// "Maper",																	//
-// written in ROOT.															//
+// Description: Program calculates the complex trajectory of electron		//
+//				beam traveling throught irregular magnetic fields.			//
+//																			//
+//				Data was used for construction of a mass spectrometer		//
+//				for charged particles to separate particles by energy.		//
+//																			//
+//				Project was done at Alikhanyan National Science Lboratory	//
+//				as a Diploma Work for acquiring bachelor's degree.			//
 //																			//
 // Some constants: q_el = 1.602,176,487e-19 C [A * s];						//
 // m_el = 9.109,382,15e-28 gramm = 0.510,998,910 MeV/c^2;					//
@@ -25,17 +24,6 @@
 // 2 Mev = 3.2043531307e-6 erg												//
 //																			//
 //////////////////////////////////////////////////////////////////////////////
-
-
-
-// Description: Program calculates the complex trajectory of electron
-//				beam traveling throught irregular magnetic fields.
-				
-				The data was used for construction of a mass spectrometer
-				for charged particles to 
-
-
-
 
 #include <iostream>
 #include <iomanip>
