@@ -7,7 +7,8 @@
 // using data from gaussmeter. Map represents magnetic field			//
 // in the middle of gap betwean two magnets.							//
 //																		//
-// This program is written for CERN's ROOT Data Analyzing Environment	//
+// This program is wintended to run in CERN's ROOT Data Analyzing		//
+// Environment.															//
 // Thought there is a way to integrate ROOT in your prefered IDE		//
 //																		//
 //////////////////////////////////////////////////////////////////////////
