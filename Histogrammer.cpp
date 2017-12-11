@@ -6,7 +6,7 @@
 // Description: Program creates histograms based on external data		//
 //				imported from electron_Distribution.txt					//
 //																		//
-// This program is wintended to run in CERN's ROOT Data Analyzing		//
+// This program is intended to run in CERN's ROOT Data Analyzing		//
 // Environment.															//
 // Thought there is a way to integrate ROOT in your prefered IDE		//
 //																		//
