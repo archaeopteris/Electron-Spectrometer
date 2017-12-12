@@ -4,7 +4,7 @@ Data was used for construction of a mass spectrometer for ![alt text][beta]	 rad
 Program 'Tracker.cpp' also performs Monte Carlo simulation to calculate the energy distribution on the output of the device and
 energy deviation in obtained collimated monochromatic electron beam.
 
-Project was done at Alikhanyan National Science Laboratory as part of a Diploma Work for acquiring bachelor's degree.
+##### Project was done at Alikhanyan National Science Laboratory as part of a Diploma Work for acquiring bachelor's degree.
 
 ### Electron beam Source
 Source beam from Strontium 90 has a gaussian angle distribution on input of the device and energy range from approximately 6 KeV to 2.274 MeV.
@@ -16,6 +16,11 @@ Decay spectrum of Strontium 90:
 Decay spectrum of Yttrium 90:
 ![alt text][Y90Spectrum]
 
+###### Read more about Strontium 90 properties:
+
+[wikipedia](https://en.wikipedia.org/wiki/Strontium-90)
+
+[National Laboratorie after Henri Becquerel](http://www.lnhb.fr/nuclides/Sr-90_tables.pdf)
 
 
 ### Output Beam
@@ -23,6 +28,8 @@ Collimators on the output of the device are made from permalloy and are 100mm lo
 Collimators for 1 and 1.5 MeV beams are 5mm width.
 Collimator for 2 MeV beams are 10mm width.
 
+### Monte Carlo Simulation
+Monte Carlo Modeling was performed to get the energy spectrum of electron beam on the output of the spectrometer.
 Monte Carlo simulation results for collimated output beams with 1, 1.5 and 2 MeV mean energies.
 
 Energy distribution in 1 MeV beam:
