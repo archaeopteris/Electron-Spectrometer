@@ -32,13 +32,13 @@ Collimator for 2 MeV beams are 10mm width.
 Monte Carlo Modeling was performed to get the energy spectrum of electron beam on the output of the spectrometer.
 Monte Carlo simulation results for collimated output beams with 1, 1.5 and 2 MeV mean energies.
 
-Energy distribution in 1 MeV beam:
+Energy distribution in 1 MeV beam (Monte Carlo Modeling):
 ![alt text][1mev]
 
-Energy distribution in 1.5 MeV beam:
+Energy distribution in 1.5 MeV beam (Monte Carlo Modeling):
 ![alt text][1.5mev]
 
-Energy distribution in 2 MeV beam:
+Energy distribution in 2 MeV beam (Monte Carlo Modeling):
 ![alt text][2mev]
 
 
