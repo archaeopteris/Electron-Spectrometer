@@ -1,6 +1,6 @@
-# Electron-Trajectory-Tracker
+# Electron-Spectrometer
 Program calculates complex trajectory of electron beam (or any other charged particles) in uneven magnetic fields.
-Data was used for construction of a mass spectrometer for ![alt text][beta]	 radiation from ![alt text][Sr90] isotope to separate them by energy and have a collimated monochromatic radiation source.
+Data was used for construction of electron spectrometer for ![alt text][beta]	 radiation from ![alt text][Sr90] isotope to separate them by energy and have a collimated monochromatic radiation source.
 Program 'Tracker.cpp' also performs Monte Carlo simulation to calculate the energy distribution on the output of the device and
 energy deviation in obtained collimated monochromatic electron beam.
 
